@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_2" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270.03 109.81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #facd78;
+        stroke-miterlimit: 10;
+        stroke-width: 2.03px;
+      }
+
+      .cls-2 {
+        fill: #facd78;
+        font-family: NotoSerifTC-Black-90ms-RKSJ-H, 'Noto Serif TC Black';
+        font-size: 46.03px;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <g id="_圖層_1-2" data-name="圖層 1">
+    <g>
+      <rect class="cls-1" x="1.02" y="1.02" width="268" height="89.79" rx="24.42" ry="24.42"/>
+      <text class="cls-2" transform="translate(24.59 61.71)"><tspan x="0" y="0">本 週 活 動</tspan></text>
+    </g>
+  </g>
+</svg>
